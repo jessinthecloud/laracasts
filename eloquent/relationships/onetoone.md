@@ -47,7 +47,7 @@ public function up()
 }    
 ```
 
-You may be thinking, why not put this on the `users` table instead? The answer is; maybe. Consider whether you are getting enough bang for your buck by moving these columns to their own table, or do they make more sense directly tied to the user?
+> You may be thinking, why not put this on the `users` table instead? The answer is; maybe. Consider whether you are getting enough bang for your buck by moving these columns to their own table, or do they make more sense directly tied to the user?
 
 Now that we have a new `profiles` table, we still don't have a link between the `Profile` and the `User`, this is what basic foreign keys are for. Let's setup the foreign key to the `User` table and then run the migration
 
