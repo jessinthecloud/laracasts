@@ -44,7 +44,7 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 ## The PHP Practitioner (PHP for Beginners)
 > https://laracasts.com/series/php-for-beginners
 
-## Eloquent Relationships
+## [Eloquent Relationships](eloquent/relationships/README.md)
 > https://laracasts.com/series/eloquent-relationships
 - [Episode 1](https://laracasts.com/series/eloquent-relationships/episodes/1) : [One to One](eloquent/relationships/onetoone.md)
 - [Episode 2](https://laracasts.com/series/eloquent-relationships/episodes/2) : One to Many
