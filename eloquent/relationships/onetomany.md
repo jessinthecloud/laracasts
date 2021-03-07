@@ -3,6 +3,24 @@
 
 ## One to Many
 
+A user can have many: blog posts, jobs, achievements. 
+A post can have many: comments.
+A project can have many: tasks.
+etc.
+
+All of these are examples of one-to-many relationships.
+
+```php 
+class User {
+    
+    public function posts() 
+    {
+        $this->hasMany(Post::class);
+    }    
+}
+```
+
+If a user `hasMany` posts, then a single post `belongsTo` a user.
 
 ---
 
