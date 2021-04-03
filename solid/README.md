@@ -1,4 +1,4 @@
-# Object-Oriented Principles in PHP
+# SOLID Principles in PHP
 
 > [Entire Laracast series](https://laracasts.com/series/solid-principles-in-php)
 
