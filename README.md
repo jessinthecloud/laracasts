@@ -20,13 +20,17 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 - [Episode 8](https://laracasts.com/series/object-oriented-principles-in-php/episodes/8) : [Value Objects and Mutability](oop/valueobjects.md)
 - [Episode 9](https://laracasts.com/series/object-oriented-principles-in-php/episodes/9) : [Exceptions](oop/exceptions.md)
 
+---
+
 ## SOLID Principles in PHP
 > https://laracasts.com/series/solid-principles-in-php
-- [Episode 1](https://laracasts.com/series/solid-principles-in-php/episodes/1) : **S**ingle Responsibility
+- [Episode 1](https://laracasts.com/series/solid-principles-in-php/episodes/1) : [**S**ingle Responsibility](solid/single.md)
 - [Episode 2](https://laracasts.com/series/solid-principles-in-php/episodes/2) : **O**pen-Closed
 - [Episode 3](https://laracasts.com/series/solid-principles-in-php/episodes/3) : **L**iskov Substitution
 - [Episode 4](https://laracasts.com/series/solid-principles-in-php/episodes/4) : **I**nterface Segregation
 - [Episode 5](https://laracasts.com/series/solid-principles-in-php/episodes/5) : **D**ependency Inversion
+
+---
 
 ## Design Patterns in PHP
 > https://laracasts.com/series/design-patterns-in-php
@@ -38,6 +42,23 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 - [Episode 6](https://laracasts.com/series/design-patterns-in-php/episodes/6) : The Specification Pattern in PHP
 - [Episode 7](https://laracasts.com/series/design-patterns-in-php/episodes/7) : The Specification Pattern in PHP: Part 2
 - [Episode 8](https://laracasts.com/series/design-patterns-in-php/episodes/8) : Observe This, Fool
+
+
+---
+
+
+## [Eloquent Relationships](eloquent/relationships/README.md)
+> https://laracasts.com/series/eloquent-relationships
+- [Episode 1](https://laracasts.com/series/eloquent-relationships/episodes/1) : [One to One](eloquent/relationships/onetoone.md)
+- [Episode 2](https://laracasts.com/series/eloquent-relationships/episodes/2) : One to Many
+- [Episode 3](https://laracasts.com/series/eloquent-relationships/episodes/3) : Many to Many
+- [Episode 4](https://laracasts.com/series/eloquent-relationships/episodes/4) : Has Many Through
+- [Episode 5](https://laracasts.com/series/eloquent-relationships/episodes/5) : Polymorphic Relations
+- [Episode 6](https://laracasts.com/series/eloquent-relationships/episodes/6) : Many to Many Polymorphic Relations
+
+
+---
+
 
 ## The PHP Practitioner (PHP for Beginners)
 > https://laracasts.com/series/php-for-beginners
