@@ -8,8 +8,11 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 
 # Series
 
-## [Object-Oriented Principles in PHP](oop/README.md)
+## Object-Oriented Principles in PHP
 > https://laracasts.com/series/object-oriented-principles-in-php
+> 
+> [Notes overview](oop/README.md)
+
 - [Episode 1](https://laracasts.com/series/object-oriented-principles-in-php/episodes/1) : [Classes](oop/classes.md)
 - [Episode 2](https://laracasts.com/series/object-oriented-principles-in-php/episodes/2) : [Objects](oop/objects.md)
 - [Episode 3](https://laracasts.com/series/object-oriented-principles-in-php/episodes/3) : [Inheritance](oop/inheritance.md)
@@ -24,6 +27,9 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 
 ## SOLID Principles in PHP
 > https://laracasts.com/series/solid-principles-in-php
+> 
+> [Notes overview](solid/README.md)
+
 - [Episode 1](https://laracasts.com/series/solid-principles-in-php/episodes/1) : [**S**ingle Responsibility](solid/single.md)
 - [Episode 2](https://laracasts.com/series/solid-principles-in-php/episodes/2) : **O**pen-Closed
 - [Episode 3](https://laracasts.com/series/solid-principles-in-php/episodes/3) : **L**iskov Substitution
@@ -34,6 +40,8 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 
 ## Design Patterns in PHP
 > https://laracasts.com/series/design-patterns-in-php
+ 
+
 - [Episode 1](https://laracasts.com/series/design-patterns-in-php/episodes/1) : The Decorator Pattern
 - [Episode 2](https://laracasts.com/series/design-patterns-in-php/episodes/2) : Gettin' Jiggy With Adapters
 - [Episode 3](https://laracasts.com/series/design-patterns-in-php/episodes/3) : The Template Method Pattern
@@ -49,6 +57,8 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 
 ## [Eloquent Relationships](eloquent/relationships/README.md)
 > https://laracasts.com/series/eloquent-relationships
+
+
 - [Episode 1](https://laracasts.com/series/eloquent-relationships/episodes/1) : [One to One](eloquent/relationships/onetoone.md)
 - [Episode 2](https://laracasts.com/series/eloquent-relationships/episodes/2) : One to Many
 - [Episode 3](https://laracasts.com/series/eloquent-relationships/episodes/3) : Many to Many
