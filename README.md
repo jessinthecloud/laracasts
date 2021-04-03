@@ -11,7 +11,7 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 ## Object-Oriented Principles in PHP
 > https://laracasts.com/series/object-oriented-principles-in-php
 
-### [Notes overview](oop/README.md)
+### [Overview](oop/README.md)
 
 - [Episode 1](https://laracasts.com/series/object-oriented-principles-in-php/episodes/1) : [Classes](oop/classes.md)
 - [Episode 2](https://laracasts.com/series/object-oriented-principles-in-php/episodes/2) : [Objects](oop/objects.md)
@@ -28,7 +28,7 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 ## SOLID Principles in PHP
 > https://laracasts.com/series/solid-principles-in-php
 
-### [Notes overview](solid/README.md)
+### [Overview](solid/README.md)
 
 - [Episode 1](https://laracasts.com/series/solid-principles-in-php/episodes/1) : [**S**ingle Responsibility](solid/single.md)
 - [Episode 2](https://laracasts.com/series/solid-principles-in-php/episodes/2) : **O**pen-Closed
@@ -55,9 +55,10 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 ---
 
 
-## [Eloquent Relationships](eloquent/relationships/README.md)
+## Eloquent Relationships
 > https://laracasts.com/series/eloquent-relationships
 
+### [Overview](eloquent/relationships/README.md)
 
 - [Episode 1](https://laracasts.com/series/eloquent-relationships/episodes/1) : [One to One](eloquent/relationships/onetoone.md)
 - [Episode 2](https://laracasts.com/series/eloquent-relationships/episodes/2) : One to Many
