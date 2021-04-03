@@ -8,8 +8,11 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 
 # Series
 
-## [Object-Oriented Principles in PHP](oop/README.md)
+## Object-Oriented Principles in PHP
 > https://laracasts.com/series/object-oriented-principles-in-php
+
+### [Overview](oop/README.md)
+
 - [Episode 1](https://laracasts.com/series/object-oriented-principles-in-php/episodes/1) : [Classes](oop/classes.md)
 - [Episode 2](https://laracasts.com/series/object-oriented-principles-in-php/episodes/2) : [Objects](oop/objects.md)
 - [Episode 3](https://laracasts.com/series/object-oriented-principles-in-php/episodes/3) : [Inheritance](oop/inheritance.md)
@@ -20,20 +23,29 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 - [Episode 8](https://laracasts.com/series/object-oriented-principles-in-php/episodes/8) : [Value Objects and Mutability](oop/valueobjects.md)
 - [Episode 9](https://laracasts.com/series/object-oriented-principles-in-php/episodes/9) : [Exceptions](oop/exceptions.md)
 
+[Begin *Object-Oriented Principles in PHP* -> Episode 1: Classes](oop/classes.md)
+
 ---
 
 ## SOLID Principles in PHP
 > https://laracasts.com/series/solid-principles-in-php
+
+### [Overview](solid/README.md)
+
 - [Episode 1](https://laracasts.com/series/solid-principles-in-php/episodes/1) : [**S**ingle Responsibility](solid/single.md)
 - [Episode 2](https://laracasts.com/series/solid-principles-in-php/episodes/2) : **O**pen-Closed
 - [Episode 3](https://laracasts.com/series/solid-principles-in-php/episodes/3) : **L**iskov Substitution
 - [Episode 4](https://laracasts.com/series/solid-principles-in-php/episodes/4) : **I**nterface Segregation
 - [Episode 5](https://laracasts.com/series/solid-principles-in-php/episodes/5) : **D**ependency Inversion
 
+[Begin *SOLID Principles in PHP* -> Episode 1: Single Responsibility](solid/single.md)
+
 ---
 
 ## Design Patterns in PHP
 > https://laracasts.com/series/design-patterns-in-php
+ 
+
 - [Episode 1](https://laracasts.com/series/design-patterns-in-php/episodes/1) : The Decorator Pattern
 - [Episode 2](https://laracasts.com/series/design-patterns-in-php/episodes/2) : Gettin' Jiggy With Adapters
 - [Episode 3](https://laracasts.com/series/design-patterns-in-php/episodes/3) : The Template Method Pattern
@@ -47,8 +59,11 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 ---
 
 
-## [Eloquent Relationships](eloquent/relationships/README.md)
+## Eloquent Relationships
 > https://laracasts.com/series/eloquent-relationships
+
+### [Overview](eloquent/relationships/README.md)
+
 - [Episode 1](https://laracasts.com/series/eloquent-relationships/episodes/1) : [One to One](eloquent/relationships/onetoone.md)
 - [Episode 2](https://laracasts.com/series/eloquent-relationships/episodes/2) : One to Many
 - [Episode 3](https://laracasts.com/series/eloquent-relationships/episodes/3) : Many to Many
@@ -56,6 +71,7 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 - [Episode 5](https://laracasts.com/series/eloquent-relationships/episodes/5) : Polymorphic Relations
 - [Episode 6](https://laracasts.com/series/eloquent-relationships/episodes/6) : Many to Many Polymorphic Relations
 
+[Begin *Eloquent Relationships* -> Episode 1: One to One](eloquent/relationships/onetoone.md)
 
 ---
 
