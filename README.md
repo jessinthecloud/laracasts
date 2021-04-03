@@ -23,6 +23,8 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 - [Episode 8](https://laracasts.com/series/object-oriented-principles-in-php/episodes/8) : [Value Objects and Mutability](oop/valueobjects.md)
 - [Episode 9](https://laracasts.com/series/object-oriented-principles-in-php/episodes/9) : [Exceptions](oop/exceptions.md)
 
+[Begin *Object-Oriented Principles in PHP* -> Episode 1: Classes](oop/classes.md)
+
 ---
 
 ## SOLID Principles in PHP
@@ -35,6 +37,8 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 - [Episode 3](https://laracasts.com/series/solid-principles-in-php/episodes/3) : **L**iskov Substitution
 - [Episode 4](https://laracasts.com/series/solid-principles-in-php/episodes/4) : **I**nterface Segregation
 - [Episode 5](https://laracasts.com/series/solid-principles-in-php/episodes/5) : **D**ependency Inversion
+
+[Begin *SOLID Principles in PHP* -> Episode 1: Single Responsibility](solid/single.md)
 
 ---
 
@@ -67,6 +71,7 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 - [Episode 5](https://laracasts.com/series/eloquent-relationships/episodes/5) : Polymorphic Relations
 - [Episode 6](https://laracasts.com/series/eloquent-relationships/episodes/6) : Many to Many Polymorphic Relations
 
+[Begin *Eloquent Relationships* -> Episode 1: One to One](eloquent/relationships/onetoone.md)
 
 ---
 
