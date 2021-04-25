@@ -180,7 +180,7 @@ class User {
     
     public function experience() 
     {
-        $this->hasOne(Experience::class);
+        return $this->hasOne(Experience::class);
     }    
 }
 

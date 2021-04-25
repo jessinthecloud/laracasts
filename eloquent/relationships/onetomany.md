@@ -19,7 +19,7 @@ class User
     // post has one (belongs to)  user 
     public function posts() 
     {
-        $this->hasMany(Post::class);
+        return $this->hasMany(Post::class);
     }    
 }
 
@@ -29,7 +29,7 @@ class Post
     // post has one (belongsto) user
     public function user() 
     {
-        $this->belongsTo(User::class);
+        return $this->belongsTo(User::class);
     }    
 }
 ```
@@ -41,7 +41,7 @@ class Post {
     // if posts table has author_id instead of user_id as key to users table
     public function user() 
     {
-        $this->belongsTo(User::class, 'author_id');
+        return $this->belongsTo(User::class, 'author_id');
     }    
 }
 ```

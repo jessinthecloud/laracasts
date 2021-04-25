@@ -2,7 +2,7 @@
 > [Episode 5 : Polymorphic Relations](https://laracasts.com/series/eloquent-relationships/episodes/5)
 
 ## Polymorphic Relations
-
+Similar to onw-to-one and one-to-many relationships, but it can belong to any number of different types of models.
 
 ---
 
