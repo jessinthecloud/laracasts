@@ -76,5 +76,5 @@ Each series will link to the Laracast episode as `Episode #` and my related note
 ---
 
 
-## The PHP Practitioner (PHP for Beginners)
+## The PHP Practitioner
 > https://laracasts.com/series/php-for-beginners
